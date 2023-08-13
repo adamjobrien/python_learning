@@ -1,0 +1,11 @@
+git status
+git add README.md
+git status
+git commit -m 'Update Title of README.md'
+git status
+git push origin main
+git status
+git add hello_world.py
+git status
+git commit -m 'add hello world'
+git push origin main
